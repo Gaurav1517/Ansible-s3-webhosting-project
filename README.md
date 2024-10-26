@@ -3,4 +3,4 @@ Web Hosting AWS S3 Bucket using Ansible playbook
 
 ## Application Screenshot
 
-![Application Screenshot](Images/Snaphot.png)
+![Application Screenshot](Image/Screenshot.png)
