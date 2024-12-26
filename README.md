@@ -70,8 +70,8 @@ This guide outlines the steps to set up an S3 bucket with static website hosting
 
 Clone the project repository to your local system:
 ```bash
-git clone <repository-url>
-cd ansible-s3-webhosting-project
+git clone https://github.com/Gaurav1517/Ansible-s3-webhosting-project.git
+cd Ansible-s3-webhosting-project
 ```
 
 ### Step 2: Configure Credentials
